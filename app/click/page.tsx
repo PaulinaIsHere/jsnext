@@ -4,7 +4,7 @@ import { YouTubeEmbed } from "@next/third-parties/google";
 export default function click() {
   return (
 <div style={{ textAlign: 'center', padding: '20px' }}>
-      <div style={{ fontSize: '60px', fontWeight: 'bold', color: 'darkred' }}>Let's Party!</div>
+      <div style={{ fontSize: '60px', fontWeight: 'bold', color: 'darkred' }}>Let&apos;s Party!</div>
       <div style={{ display: 'flex', justifyContent: 'center', marginTop: '20px' }}>
       <iframe
           width="720"
